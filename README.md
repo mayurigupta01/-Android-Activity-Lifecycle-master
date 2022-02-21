@@ -13,3 +13,11 @@ Simple Android activity lifecycle example with two different activities to see h
 
 Don't forget to check Logs. (don't forget to set the logs for *Errors* to easily see them)
 
+
+
+
+
+https://user-images.githubusercontent.com/89235391/154881118-1c1cd9a4-1140-426e-86de-390e41ece243.mp4
+
+
+
